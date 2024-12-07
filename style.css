@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#headTitle {
+    margin-top: 24px;
+    font-weight: 700;
+    font-size: 72px;
+    align-items: center;
+    padding-left: 341px;
+}
+
+#nightCard {
+    width: 568px;
+    height: 866px;
+    margin-left: 55px;
+    margin-top: 37px;
+}
+
+#nightImg {
+    width: 568px;
+    height: 446px;
+}
+
+#content {
+    width: 568px;
+    height: 320px;
+    margin-top: 12px;
+}
+
+#contentTitle {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+#contentText {
+    color: #414651;
+    text-align: center;
+    margin-top: 16px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#list {
+    height: 144px;
+    width: 568px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #155EEF;
+    margin-left: 20px;
+}
+
+#moreButton {
+    margin-top: 32px;
+    width: 177px;
+    height: 56px;
+    border: 2px solid #CEA201;
+}
+
+#moreText {
+    color: #CEA201;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 12px 32px;
+}
+
+#magicCard {
+    width: 722px;
+    height: 1156px;
+    margin-left: 55px;
+    margin-top: 74px;
+}
+
+#magicText {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#magicContent {
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+#workTitle {
+    color: #00C76E;
+    margin-top: 24px;
+    text-align: center;
+}
+
+#workList {
+    color: #FF5DA3;
+    padding: 16px 130.5px 0 130.5px;
+}
+
+#butterfly {
+    width: 200px;
+    height: 200px;
+    margin-top: 24px;
+}
+
+#questionCard {
+    width: 722px;
+    height: 160px;
+    margin-top: 24px;
+    padding: 16px;
+    background-color: #FFDEF0;
+    border: 6px solid #C11574;
+}
+
+#question {
+    color: #414651;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+#ulist {
+    color: #C27512;
+    font-size: 16px;
+    font-weight: 400;
+    list-style-type: none;
+    margin-top: 16px;
+}
+
+#listFirst,
+#listSecond {
+    margin-bottom: 8px;
+}
+
+#ulist span {
+    width: 16px;
+    height: 16px;
+    margin-right: 12px;
+}
+
+#animal {
+    margin-top: 24px;
+    width: 298.01px;
+    height: 396px;
+}
+
+#seeMore {
+    color: #00D4BC;
+    padding-top: 24px;
+    padding-left: 506px;
+    font-weight: 400;
+    font-size: 24px;
+}
